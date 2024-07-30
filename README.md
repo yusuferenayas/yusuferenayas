@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yusuferenayas
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently mastering on every aspect of React.js.
-- 💞️ I’m looking to collaborate on react projects.
+- 👀 I’m interested in Complete Frontend Development & Architecture.
 - 📫 How to reach me yusuferenayas@gmail.com
 
 <!---
